@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dan
+- 👀 I’m interested in eletric vehicles 
+- 🌱 I’m currently learning C++,CAN
+- 💞️ I’m looking to collaborate on anything EV related 
+- 📫 How to reach me danw8976@gmail.com
